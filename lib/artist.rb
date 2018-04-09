@@ -8,4 +8,6 @@ class Artist
     #binding.pry
   end
 
+  name
+
 end
