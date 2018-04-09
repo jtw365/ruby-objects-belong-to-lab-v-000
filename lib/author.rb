@@ -4,3 +4,4 @@ class Author
 
   def initialize(name = nil)
     @name = name
+  end
