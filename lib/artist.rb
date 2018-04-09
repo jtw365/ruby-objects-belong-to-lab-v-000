@@ -8,6 +8,4 @@ class Artist
     #binding.pry
   end
 
-  artist = Artist.new("Kanye")
-
 end
