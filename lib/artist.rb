@@ -7,4 +7,4 @@ class Artist
 
 end
 
-artist.name
+Artist.name
