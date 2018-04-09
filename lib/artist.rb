@@ -8,6 +8,6 @@ class Artist
     #binding.pry
   end
 
-  @name
+  artist = Artist.new(Kanye)
 
 end
